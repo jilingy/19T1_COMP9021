@@ -1,6 +1,6 @@
 # COMP9021
 python<br>  
-assignment_1: 9.25<br>
+assignment_1: 9.25  
  quiz_1 score: 2.5  
 quiz_2 score: 2.5  
 quiz_3 score: 2.5  
@@ -10,5 +10,6 @@ quiz_6 score: 2.5
 quiz_7 score: 2.5  
 quiz_8 score: 1.25     (Terrible TAT  
 assignment_1: 9.3  
-Summary:  
+
+##Summary:  
 我只写出来了

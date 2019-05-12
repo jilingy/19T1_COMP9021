@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M 30 70 L 50 40 L 20 30 z" fill="goldenrod"/>
+    <path d="M 900 100 L 900 300 L 600 400 L 700 100 z" fill="red"/>
+    <path d="M 40 700 L 50 600 L 50 400 L 20 300 L 10 600 z" fill="blue"/>
+    <path d="M 300 70 L 500 60 L 600 30 L 400 20 L 200 20 L 200 50 z" fill="green"/>
+    <path d="M 500 600 L 400 700 L 200 600 L 200 500 L 300 400 L 400 400 L 500 500 z" fill="magenta"/>
+    <path d="M 130 90 L 120 80 L 120 70 L 130 60 L 140 60 L 150 70 L 150 80 L 140 90 z" fill="grey"/>
+</svg>

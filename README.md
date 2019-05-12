@@ -1,5 +1,5 @@
 # COMP9021
-python<br>  
+`python`<br>  
 assignment_1: 9.25  
  quiz_1 score: 2.5  
 quiz_2 score: 2.5  
